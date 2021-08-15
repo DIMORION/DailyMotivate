@@ -35,7 +35,7 @@ text-align: center;
   /* Add a color to the active/current link */
   .topnav {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times New Roman;
-    background: linear-gradient(45deg, #ff0000, #ff7300, #00ffd5, #002bff, #ff00c8, #ff0000);
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #002bff, #2f00ff, #00ffd5, #7a00ff);
     font-family: Raleway;
   }
   .topnav a.active {
